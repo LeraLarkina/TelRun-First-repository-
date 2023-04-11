@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.list {
+    padding-left: 50px ;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.table {
+    padding-top: 15px;
+}
+img {
+    height: 30px;
+    width: 50px;
+}
+table, tr, th, td {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+.eur {
+    text-align: left;
+}
+td {
+    padding:2px;
+}
